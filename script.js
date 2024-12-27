@@ -422,7 +422,6 @@ function heroAnim(){
             start: "top top",
             end: "bottom bottom",
             scrub: 2,
-            markers: true,
           },
         });
     
